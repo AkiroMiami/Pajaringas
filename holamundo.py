@@ -1,2 +1,2 @@
-print("hola mundo")
-print("rama practica")
+print("hola mundo") #hola mundo perron
+print("rama practica") #soy el miami
