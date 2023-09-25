@@ -1,2 +1,2 @@
-# Pajaringas
+# Payaringas
 si ou lle
